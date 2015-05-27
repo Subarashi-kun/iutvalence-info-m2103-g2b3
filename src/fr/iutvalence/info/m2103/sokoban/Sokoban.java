@@ -154,7 +154,6 @@ public class Sokoban {
 		}
 		
 		this.display.displayMessage("Level " + this.level.getLevelNumber());
-
 		while (true)
 		{
 			

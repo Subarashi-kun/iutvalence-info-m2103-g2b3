@@ -71,6 +71,10 @@ public enum Direction {
 		return new Position(this.deltaX, this.deltaY);
 	}
 
+	/**
+	 * Get a random direction
+	 * @return a random direction
+	 */
 	public static Direction getRandomDirection() {
 		Random randomDir = new Random();
 

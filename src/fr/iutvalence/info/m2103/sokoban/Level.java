@@ -22,7 +22,7 @@ public class Level {
 	private static final int DEFAULT_LEVEL_NUMBER = 1;
 	
 	/**
-	 * The first line grid of walls
+	 * The first line grid of walls-
 	 */
 	private static final int WALL_FIRST_LINE = 0;
 
