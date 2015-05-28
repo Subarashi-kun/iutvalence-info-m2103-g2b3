@@ -5,7 +5,7 @@ import fr.iutvalence.info.m2103.interfaces.Display;
 /**
  * Manages the console display
  */
-public class DisplayConsole implements Display{
+public class DisplayConsole extends Main implements Display{
 
 	@Override
 	public void displayMessage(String msg) {

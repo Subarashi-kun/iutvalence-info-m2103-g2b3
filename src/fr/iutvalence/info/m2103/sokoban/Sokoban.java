@@ -44,6 +44,7 @@ public class Sokoban {
 		this.level = null;
 		this.player = player;
 		this.display = display;
+
 	}
 
 	/**

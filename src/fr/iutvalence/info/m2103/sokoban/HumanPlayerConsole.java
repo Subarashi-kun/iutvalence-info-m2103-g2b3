@@ -7,7 +7,7 @@ import fr.iutvalence.info.m2103.interfaces.PlayerInteraction;
 /**
  * Manages the interactions with a human player.
  */
-public class HumanPlayerConsole implements PlayerInteraction{
+public class HumanPlayerConsole extends Main implements PlayerInteraction{
 
 	/**
 	 * Gets input from keyboard
